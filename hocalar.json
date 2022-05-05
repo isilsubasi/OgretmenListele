@@ -2,25 +2,25 @@
 {
 	"AdiSoyadi":"Muhammet ÇAĞATAY",
 	"Eposta" : "muhammet@medipol.edu.tr",
-	"ResimURL" :"https://github.com/isilsubasi/OgretmenListele/blob/main/r0.jpeg",
+	"ResimURL" :"https://raw.githubusercontent.com/isilsubasi/OgretmenListele/main/r0.jpeg",
 	"VerdiğiDers" : "Mobil Yazılımlar" 		
 },
 {
 	"AdiSoyadi":"Prof.Dr. Mehmet İPŞİRLİ",
 	"Eposta" : "mipsirli@medipol.edu.tr",
-	"ResimURL" :"https://github.com/isilsubasi/OgretmenListele/blob/main/r1.vrf",
+	"ResimURL" :"https://raw.githubusercontent.com/isilsubasi/OgretmenListele/main/r1.vrf",
 	"VerdiğiDers" : "Matematik" 		
 },
 {
 	"AdiSoyadi":"Dr.Öğr.Üye. Hakan ŞAHİN",
 	"Eposta" : "hsahin@medipol.edu.tr",
-	"ResimURL" :"https://github.com/isilsubasi/OgretmenListele/blob/main/r2.vrf",
+	"ResimURL" :"https://raw.githubusercontent.com/isilsubasi/OgretmenListele/main/r2.vrf",
 	"VerdiğiDers" : "Fizik" 		
 },
 {
 	"AdiSoyadi":"Dr.Öğr.Üye. Hande YILMAZ",
 	"Eposta" : "handeyilmaz@medipol.edu.tr",
-	"ResimURL" :"https://github.com/isilsubasi/OgretmenListele/blob/main/r3.vrf",
+	"ResimURL" :"https://raw.githubusercontent.com/isilsubasi/OgretmenListele/main/r3.vrf",
 	"VerdiğiDers" : "Database" 		
 }
 ]
